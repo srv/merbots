@@ -1,0 +1,9 @@
+[submodule "merbots_ibvs"]
+	path = merbots_ibvs
+	url = git@github.com:srv/merbots_ibvs.git
+[submodule "merbots_ibvs_recovery"]
+	path = merbots_ibvs_recovery
+	url = git@github.com:srv/merbots_ibvs_recovery.git
+[submodule "merbots_tracking"]
+	path = merbots_tracking
+	url = git@github.com:srv/merbots_tracking.git
