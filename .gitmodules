@@ -9,4 +9,4 @@
 	url = git@github.com:srv/merbots_tracking.git
 [submodule "merbots_gui"]
 	path = merbots_gui
-	url = git@github.com:jcgarsan/merbots_gui.git
+	url = git@github.com:srv/merbots_gui.git
